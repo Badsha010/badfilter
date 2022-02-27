@@ -2,7 +2,7 @@
   <img src="assets/AJAX.png" alt="Ajax Techz">
 </p>
 <h1 align="center">
-  <b>ᗩᒍᗩ᙭ Iᗰᗪᗷ ᗷOT ᐯ3</b>
+  <b> ᗷᗩᗞᔑᕼᗩ ᗩᑌᎢᝪᖴᏆᏞᎢᗴᖇ ᗷᝪᎢ ᐯ3 </b>
 </h1>
 
 [![Stars](https://img.shields.io/github/stars/Aadhi000/Ajax?style=flat-square&color=green)](https://github.com/Aadhi000/Ajax/stargazers)
