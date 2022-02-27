@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/AJAX.png" alt="Ajax Techz">
+  <img src="https://nicebots.herokuapp.com/1b73c/file.jpg" alt="Ajax Techz">
 </p>
 <h1 align="center">
   <b> ᗷᗩᗞᔑᕼᗩ ᗩᑌᎢᝪᖴᏆᏞᎢᗴᖇ ᗷᝪᎢ ᐯ3 </b>
